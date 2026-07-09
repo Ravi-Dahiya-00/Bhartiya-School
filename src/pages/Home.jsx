@@ -336,7 +336,7 @@ export default function Home() {
             <AnimSection delay={100} className="h-full">
               <div className="bg-white rounded-3xl overflow-hidden shadow-xl h-full group flex flex-col cursor-pointer">
                 <div className="relative h-64 md:h-80 overflow-hidden shrink-0">
-                  <img src="/images/school-photo-55.webp" alt="Featured Achievement" loading="lazy" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
+                  <img src="/images/school-photo-92.webp" alt="Featured Achievement" loading="lazy" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
                   <div className="absolute top-4 left-4 bg-[#e8a000] text-white text-xs font-bold px-4 py-2 rounded-full uppercase tracking-wider shadow-lg">Featured</div>
                 </div>
                 <div className="p-8 flex-1 flex flex-col justify-center">
@@ -349,9 +349,9 @@ export default function Home() {
             {/* News Stack */}
             <div className="flex flex-col gap-6 h-full justify-between">
               {[
-                { img: 20, title: 'Media Coverage & Recognition', desc: 'Bhartiya School featured in local news for outstanding performance.', tag: 'News' },
-                { img: 10, title: 'Annual Prize Distribution', desc: 'Honoring our brightest minds and talented athletes.', tag: 'Event' },
-                { img: 67, title: 'State Level Champions', desc: 'Our champions securing gold medals at the inter-school tournament.', tag: 'Sports' }
+                { img: 143, title: 'Media Coverage & Recognition', desc: 'Bhartiya School featured in local news for outstanding performance.', tag: 'News' },
+                { img: 116, title: 'Annual Prize Distribution', desc: 'Honoring our brightest minds and talented athletes.', tag: 'Event' },
+                { img: 97, title: 'State Level Champions', desc: 'Our champions securing gold medals at the inter-school tournament.', tag: 'Sports' }
               ].map((item, i) => (
                 <AnimSection key={i} delay={200 + i * 100} className="h-full">
                   <div className="bg-white rounded-2xl p-4 shadow-md flex items-center gap-6 group hover:shadow-xl transition-shadow border border-gray-100 cursor-pointer h-full">
@@ -435,8 +435,8 @@ export default function Home() {
         <div className="max-w-4xl mx-auto px-4">
           <AnimSection>
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl border border-gray-100 text-center">
-              <div className="w-20 h-20 bg-gradient-to-br from-[#1a3a6b] to-[#2a5298] rounded-full flex items-center justify-center mx-auto mb-5 shadow-lg">
-                <GraduationCap size={34} className="text-yellow-400" />
+              <div className="w-24 h-24 md:w-32 md:h-32 rounded-full overflow-hidden mx-auto mb-6 shadow-xl ring-4 ring-white">
+                <img src="/images/school-photo-58.webp" alt="Mr. Kamal Singh - Principal" loading="lazy" className="w-full h-full object-cover" />
               </div>
               <div className="flex items-center justify-center gap-1 mb-5">
                 {[...Array(5)].map((_, i) => <Star key={i} size={16} className="text-yellow-400 fill-yellow-400" />)}

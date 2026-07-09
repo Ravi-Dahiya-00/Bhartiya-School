@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Menu, X, Phone, Mail, GraduationCap } from 'lucide-react';
+import { Menu, X, Phone, Mail } from 'lucide-react';
 
 const navLinks = [
   { name: 'Home', path: '/' },
@@ -56,9 +56,7 @@ export default function Navbar() {
 
             {/* Logo */}
             <Link to="/" className="flex items-center gap-3 group">
-              <div className="w-10 h-10 md:w-12 md:h-12 bg-gradient-to-br from-[#1a3a6b] to-[#2a5298] rounded-xl flex items-center justify-center shadow-md group-hover:scale-105 transition-transform">
-                <GraduationCap size={22} className="text-yellow-400" />
-              </div>
+              <img src="/images/logo.jpg" alt="Bhartiya School Logo" className="w-10 h-10 md:w-12 md:h-12 object-contain rounded-xl shadow-sm group-hover:scale-105 transition-transform bg-white" />
               <div>
                 <p className="font-bold text-[#1a3a6b] text-sm md:text-base leading-tight">Bhartiya Sr. Sec. School</p>
                 <p className="text-[10px] md:text-xs text-gray-500 leading-tight">Nangal Mundi, Rewari · CBSE</p>

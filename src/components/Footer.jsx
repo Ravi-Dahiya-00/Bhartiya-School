@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Phone, Mail, MapPin, GraduationCap, Share2, Video, Camera, ExternalLink } from 'lucide-react';
+import { Phone, Mail, MapPin, Share2, Video, Camera, ExternalLink } from 'lucide-react';
 
 const quickLinks = [
   { name: 'Home', path: '/' },
@@ -29,9 +29,7 @@ export default function Footer() {
           {/* Brand column */}
           <div className="lg:col-span-1">
             <div className="flex items-center gap-3 mb-5">
-              <div className="w-12 h-12 bg-gradient-to-br from-[#e8a000] to-[#ffb800] rounded-xl flex items-center justify-center shadow-lg">
-                <GraduationCap size={24} className="text-white" />
-              </div>
+              <img src="/images/logo.jpg" alt="Bhartiya School Logo" className="w-12 h-12 object-contain rounded-xl shadow-lg bg-white" />
               <div>
                 <p className="font-bold text-white text-base leading-tight">Bhartiya Sr. Sec. School</p>
                 <p className="text-blue-300 text-xs">Nangal Mundi, Rewari</p>

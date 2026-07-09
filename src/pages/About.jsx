@@ -53,7 +53,7 @@ export default function About() {
       <section className="bg-white py-16 md:py-24">
         <div className="max-w-7xl mx-auto px-4 grid md:grid-cols-2 gap-14 items-center">
           <AnimSection>
-            <img src="/images/school-photo-9.jpg" alt="School" loading="lazy" className="rounded-3xl shadow-xl w-full object-cover h-80 md:h-96" />
+            <img src="/images/school-photo-9.webp" alt="School" loading="lazy" className="rounded-3xl shadow-xl w-full object-cover h-80 md:h-96" />
           </AnimSection>
           <AnimSection delay={150}>
             <p className="text-[#e8a000] font-semibold text-sm uppercase tracking-widest mb-3">Who We Are</p>

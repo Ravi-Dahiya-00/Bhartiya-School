@@ -27,10 +27,28 @@ const categories = ['All', 'Campus', 'Sports', 'Events', 'Cultural', 'News & Ann
 export default function Gallery() {
   const [activeCategory, setActiveCategory] = useState('All');
   const [lightboxItem, setLightboxItem] = useState(null);
+  const [displayedCount, setDisplayedCount] = useState(20);
+  const loaderRef = useRef(null);
 
   const filtered = activeCategory === 'All'
     ? galleryItems
     : galleryItems.filter((g) => g.cat === activeCategory);
+
+  // Reset displayed count when category changes
+  useEffect(() => {
+    setDisplayedCount(20);
+  }, [activeCategory]);
+
+  // Infinite scroll observer
+  useEffect(() => {
+    const observer = new IntersectionObserver((entries) => {
+      if (entries[0].isIntersecting) {
+        setDisplayedCount((prev) => Math.min(prev + 20, filtered.length));
+      }
+    }, { threshold: 0.1 });
+    if (loaderRef.current) observer.observe(loaderRef.current);
+    return () => observer.disconnect();
+  }, [filtered.length]);
 
   // Close lightbox on Escape
   useEffect(() => {
@@ -73,8 +91,8 @@ export default function Gallery() {
 
           {/* Grid */}
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
-            {filtered.map((item, i) => (
-              <AnimSection key={item.id} delay={i * 50}>
+            {filtered.slice(0, displayedCount).map((item, i) => (
+              <AnimSection key={item.id} delay={(i % 20) * 50}>
                 <div
                   className="relative rounded-2xl overflow-hidden group cursor-pointer shadow-md"
                   onClick={() => setLightboxItem(item)}
@@ -108,6 +126,13 @@ export default function Gallery() {
           {filtered.length === 0 && (
             <div className="text-center py-20 text-gray-400">
               <p className="text-lg font-semibold">No photos in this category yet.</p>
+            </div>
+          )}
+
+          {/* Invisible loader element for infinite scroll */}
+          {displayedCount < filtered.length && (
+            <div ref={loaderRef} className="h-20 w-full flex items-center justify-center">
+              <div className="w-8 h-8 border-4 border-[#1a3a6b]/20 border-t-[#1a3a6b] rounded-full animate-spin"></div>
             </div>
           )}
 

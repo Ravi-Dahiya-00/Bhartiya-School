@@ -47,11 +47,7 @@ const facilities = [
     details: ['CCTV cameras across campus', '24/7 surveillance system', 'Secure campus perimeter', 'Gated entry with security personnel', 'Regular safety drills'],
     desc: 'Every corner of our 8,498 sq.m. campus is under CCTV surveillance. Parents can rest assured that their children are safe within our secure, monitored environment throughout the school day.',
   },
-  {
-    icon: Utensils, name: 'Cafeteria', color: 'text-orange-600', bg: 'bg-orange-100', gradient: 'from-orange-400 to-amber-600',
-    details: ['Hygienic food preparation', 'Nutritious meal options', 'Affordable pricing', 'Clean dining area', 'Vegetarian-friendly menu'],
-    desc: 'Our school cafeteria serves healthy, hygienic, and affordable meals. We believe good nutrition directly impacts a child\'s ability to learn and concentrate, so we ensure clean and nourishing food options.',
-  },
+
   {
     icon: Users, name: 'NCC / Scouts & Guides', color: 'text-teal-600', bg: 'bg-teal-100', gradient: 'from-teal-500 to-cyan-700',
     details: ['NCC enrollment for eligible students', 'Scouts & Guides programs', 'Leadership & discipline training', 'Community service activities', 'National-level competitions'],
