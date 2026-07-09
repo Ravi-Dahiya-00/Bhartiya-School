@@ -13,7 +13,7 @@ dist-ssr
 *.local
 
 # Downloaded root images
-images/
+/images/
 
 # Editor directories and files
 .vscode/*
