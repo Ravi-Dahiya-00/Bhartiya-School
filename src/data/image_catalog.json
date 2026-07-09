@@ -1,0 +1,1388 @@
+[
+  {
+    "id": 1,
+    "cat": "Sports",
+    "label": "Morning Assembly",
+    "img": "/images/school-photo-1.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 2,
+    "cat": "News & Announcements",
+    "label": "School Logo & Awards",
+    "img": "/images/school-photo-2.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 3,
+    "cat": "Cultural",
+    "label": "Students Celebration",
+    "img": "/images/school-photo-3.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 4,
+    "cat": "Sports",
+    "label": "Kabaddi Match",
+    "img": "/images/school-photo-4.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 5,
+    "cat": "Campus",
+    "label": "Bhartiya School Building",
+    "img": "/images/school-photo-5.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 6,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-6.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 7,
+    "cat": "News & Announcements",
+    "label": "Awards & Achievements",
+    "img": "/images/school-photo-7.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 8,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-8.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 9,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-9.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 10,
+    "cat": "News & Announcements",
+    "label": "Awards & Achievements",
+    "img": "/images/school-photo-10.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 11,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-11.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 12,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-12.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 13,
+    "cat": "Sports",
+    "label": "Sports & Activities",
+    "img": "/images/school-photo-13.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 14,
+    "cat": "Sports",
+    "label": "Sports & Activities",
+    "img": "/images/school-photo-14.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 15,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-15.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 16,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-16.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 17,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-17.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 18,
+    "cat": "Sports",
+    "label": "Sports & Activities",
+    "img": "/images/school-photo-18.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 19,
+    "cat": "News & Announcements",
+    "label": "Awards & Achievements",
+    "img": "/images/school-photo-19.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 20,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-20.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 21,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-21.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 22,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-22.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 23,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-23.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 24,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-24.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 25,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-25.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 26,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-26.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 27,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-27.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 28,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-28.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 29,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-29.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 30,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-30.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 31,
+    "cat": "Sports",
+    "label": "Sports & Activities",
+    "img": "/images/school-photo-31.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 32,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-32.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 33,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-33.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 34,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-34.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 35,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-35.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 36,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-36.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 37,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-37.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 38,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-38.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 39,
+    "cat": "Sports",
+    "label": "Sports & Activities",
+    "img": "/images/school-photo-39.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 40,
+    "cat": "Sports",
+    "label": "Sports & Activities",
+    "img": "/images/school-photo-40.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 41,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-41.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 42,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-42.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 43,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-43.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 44,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-44.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 45,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-45.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 46,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-46.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 47,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-47.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 48,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-48.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 49,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-49.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 50,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-50.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 51,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-51.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 52,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-52.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 53,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-53.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 54,
+    "cat": "News & Announcements",
+    "label": "Awards & Achievements",
+    "img": "/images/school-photo-54.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 55,
+    "cat": "News & Announcements",
+    "label": "Awards & Achievements",
+    "img": "/images/school-photo-55.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 56,
+    "cat": "News & Announcements",
+    "label": "Awards & Achievements",
+    "img": "/images/school-photo-56.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 57,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-57.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 58,
+    "cat": "News & Announcements",
+    "label": "Awards & Achievements",
+    "img": "/images/school-photo-58.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 59,
+    "cat": "News & Announcements",
+    "label": "Awards & Achievements",
+    "img": "/images/school-photo-59.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 60,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-60.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 61,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-61.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 62,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-62.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 63,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-63.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 64,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-64.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 65,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-65.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 66,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-66.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 67,
+    "cat": "News & Announcements",
+    "label": "Awards & Achievements",
+    "img": "/images/school-photo-67.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 68,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-68.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 69,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-69.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 70,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-70.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 71,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-71.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 72,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-72.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 73,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-73.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 74,
+    "cat": "Sports",
+    "label": "Sports & Activities",
+    "img": "/images/school-photo-74.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 75,
+    "cat": "Sports",
+    "label": "Sports & Activities",
+    "img": "/images/school-photo-75.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 76,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-76.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 77,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-77.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 78,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-78.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 79,
+    "cat": "Sports",
+    "label": "Sports & Activities",
+    "img": "/images/school-photo-79.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 80,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-80.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 81,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-81.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 82,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-82.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 83,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-83.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 84,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-84.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 85,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-85.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 86,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-86.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 87,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-87.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 88,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-88.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 89,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-89.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 90,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-90.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 91,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-91.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 92,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-92.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 93,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-93.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 94,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-94.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 95,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-95.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 96,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-96.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 97,
+    "cat": "Sports",
+    "label": "Sports & Activities",
+    "img": "/images/school-photo-97.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 98,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-98.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 99,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-99.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 100,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-100.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 101,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-101.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 102,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-102.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 103,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-103.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 104,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-104.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 105,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-105.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 106,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-106.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 107,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-107.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 108,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-108.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 109,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-109.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 110,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-110.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 111,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-111.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 112,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-112.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 113,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-113.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 114,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-114.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 115,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-115.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 116,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-116.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 117,
+    "cat": "News & Announcements",
+    "label": "Awards & Achievements",
+    "img": "/images/school-photo-117.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 118,
+    "cat": "News & Announcements",
+    "label": "Awards & Achievements",
+    "img": "/images/school-photo-118.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 119,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-119.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 120,
+    "cat": "News & Announcements",
+    "label": "Awards & Achievements",
+    "img": "/images/school-photo-120.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 121,
+    "cat": "Campus",
+    "label": "School Campus & Infrastructure",
+    "img": "/images/school-photo-121.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 122,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-122.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 123,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-123.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 124,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-124.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 125,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-125.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 126,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-126.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 127,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-127.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 128,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-128.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 129,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-129.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 130,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-130.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 131,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-131.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 132,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-132.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 133,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-133.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 134,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-134.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 135,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-135.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 136,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-136.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 137,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-137.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 138,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-138.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 139,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-139.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 140,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-140.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 141,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-141.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 142,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-142.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 143,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-143.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 144,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-144.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 145,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-145.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 146,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-146.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 147,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-147.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 148,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-148.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 149,
+    "cat": "News & Announcements",
+    "label": "Awards & Achievements",
+    "img": "/images/school-photo-149.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 150,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-150.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 151,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-151.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 152,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-152.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 153,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-153.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 154,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-154.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 155,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-155.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 156,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-156.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 157,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-157.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 158,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-158.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 159,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-159.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 160,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-160.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 161,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-161.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 162,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-162.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 163,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-163.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 164,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-164.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 165,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-165.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 166,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-166.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 167,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-167.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 168,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-168.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 169,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-169.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 170,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-170.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 171,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-171.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 172,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-172.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 173,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-173.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 174,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-174.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 175,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-175.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 176,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-176.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 177,
+    "cat": "News & Announcements",
+    "label": "Awards & Achievements",
+    "img": "/images/school-photo-177.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 178,
+    "cat": "News & Announcements",
+    "label": "News Clipping / Announcement",
+    "img": "/images/school-photo-178.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 179,
+    "cat": "News & Announcements",
+    "label": "Awards & Achievements",
+    "img": "/images/school-photo-179.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 180,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-180.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 181,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-181.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 182,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-182.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 183,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-183.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 184,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-184.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 185,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-185.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 186,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-186.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 187,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-187.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 188,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-188.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 189,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-189.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 190,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-190.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  },
+  {
+    "id": 191,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-191.jpg",
+    "gradient": "from-violet-900/30 to-violet-900/60"
+  },
+  {
+    "id": 192,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-192.jpg",
+    "gradient": "from-orange-900/30 to-orange-900/60"
+  },
+  {
+    "id": 193,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-193.jpg",
+    "gradient": "from-blue-900/30 to-blue-900/60"
+  },
+  {
+    "id": 194,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-194.jpg",
+    "gradient": "from-amber-900/30 to-amber-900/60"
+  },
+  {
+    "id": 195,
+    "cat": "Events",
+    "label": "School Event & Activities",
+    "img": "/images/school-photo-195.jpg",
+    "gradient": "from-pink-900/30 to-pink-900/60"
+  },
+  {
+    "id": 196,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-196.jpg",
+    "gradient": "from-green-900/30 to-green-900/60"
+  },
+  {
+    "id": 197,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-197.jpg",
+    "gradient": "from-sky-900/30 to-sky-900/60"
+  },
+  {
+    "id": 198,
+    "cat": "Cultural",
+    "label": "Cultural Celebration",
+    "img": "/images/school-photo-198.jpg",
+    "gradient": "from-teal-900/30 to-teal-900/60"
+  }
+]
