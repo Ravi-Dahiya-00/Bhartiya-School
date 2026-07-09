@@ -58,15 +58,6 @@ const stats = [
   { label: 'Activities Offered', value: 10, suffix: '+', icon: Heart },
 ];
 
-// ─── Programs ────────────────────────────────────────────────────
-const programs = [
-  { title: 'Nursery & KG', range: 'Age 3–5', desc: 'Playful, activity-based early learning that nurtures curiosity and social skills.', color: 'from-pink-500 to-rose-400', icon: '🌱' },
-  { title: 'Primary (I–V)', range: 'Age 6–10', desc: 'Strong foundational learning in core subjects with creative and physical development.', color: 'from-blue-500 to-cyan-400', icon: '📚' },
-  { title: 'Middle (VI–VIII)', range: 'Age 11–13', desc: 'Conceptual learning with introduction to science, math, and social sciences.', color: 'from-violet-500 to-purple-400', icon: '🔬' },
-  { title: 'Secondary (IX–X)', range: 'Age 14–15', desc: 'CBSE Board preparation with comprehensive subject expertise and practical labs.', color: 'from-amber-500 to-orange-400', icon: '✏️' },
-  { title: 'Sr. Secondary (XI–XII)', range: 'Age 16–17', desc: 'Science, Commerce & Arts streams with career guidance and board excellence.', color: 'from-green-500 to-emerald-400', icon: '🎓' },
-];
-
 // ─── Facilities ──────────────────────────────────────────────────
 const facilities = [
   { name: 'Library', desc: '4,000+ books', icon: BookOpen, bg: 'bg-blue-50', color: 'text-blue-600', ring: 'ring-blue-200' },
@@ -74,7 +65,6 @@ const facilities = [
   { name: 'Sports', desc: 'Indoor & outdoor', icon: Trophy, bg: 'bg-amber-50', color: 'text-amber-600', ring: 'ring-amber-200' },
   { name: 'Transport', desc: 'Safe school buses', icon: Bus, bg: 'bg-green-50', color: 'text-green-600', ring: 'ring-green-200' },
   { name: 'CCTV Security', desc: '24/7 surveillance', icon: Shield, bg: 'bg-red-50', color: 'text-red-600', ring: 'ring-red-200' },
-  { name: 'Cafeteria', desc: 'Hygienic meals', icon: Utensils, bg: 'bg-orange-50', color: 'text-orange-600', ring: 'ring-orange-200' },
   { name: 'NCC / Scouts', desc: 'Discipline & leadership', icon: Users, bg: 'bg-teal-50', color: 'text-teal-600', ring: 'ring-teal-200' },
   { name: 'Arts & Music', desc: 'Cultural excellence', icon: Music, bg: 'bg-pink-50', color: 'text-pink-600', ring: 'ring-pink-200' },
 ];
@@ -100,12 +90,12 @@ const pillars = [
 
 // ─── Gallery preview images ───────────────────────────────────────
 const galleryPreviews = [
-  { bg: 'from-blue-400 to-blue-700', label: 'Campus', img: '/images/school-photo-2.jpg' },
-  { bg: 'from-green-400 to-emerald-700', label: 'Sports', img: '/images/school-photo-4.jpg' },
-  { bg: 'from-purple-400 to-violet-700', label: 'Events', img: '/images/school-photo-1.jpg' },
-  { bg: 'from-amber-400 to-orange-600', label: 'Cultural', img: '/images/school-photo-3.jpg' },
-  { bg: 'from-pink-400 to-rose-600', label: 'Campus Life', img: '/images/school-photo-6.jpg' },
-  { bg: 'from-teal-400 to-cyan-700', label: 'Classrooms', img: '/images/school-photo-7.jpg' },
+  { bg: 'from-blue-400 to-blue-700', label: 'Campus', img: '/images/school-photo-2.webp' },
+  { bg: 'from-green-400 to-emerald-700', label: 'Sports', img: '/images/school-photo-4.webp' },
+  { bg: 'from-purple-400 to-violet-700', label: 'Events', img: '/images/school-photo-1.webp' },
+  { bg: 'from-amber-400 to-orange-600', label: 'Cultural', img: '/images/school-photo-3.webp' },
+  { bg: 'from-pink-400 to-rose-600', label: 'Campus Life', img: '/images/school-photo-6.webp' },
+  { bg: 'from-teal-400 to-cyan-700', label: 'Classrooms', img: '/images/school-photo-7.webp' },
 ];
 
 // ─── Announcements ────────────────────────────────────────────────
@@ -246,7 +236,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 grid md:grid-cols-2 gap-12 items-center">
           <AnimSection>
             <div className="relative">
-              <img src="/images/school-photo-8.jpg" alt="Bhartiya School" loading="lazy" className="rounded-3xl w-full object-cover h-80 md:h-96 shadow-xl" />
+              <img src="/images/school-photo-25.webp" alt="Bhartiya School" loading="lazy" className="rounded-3xl w-full object-cover h-80 md:h-96 shadow-xl" />
               <div className="absolute -bottom-5 -right-5 bg-gradient-to-br from-[#e8a000] to-[#ffb800] rounded-2xl p-5 shadow-xl">
                 <p className="text-white font-extrabold text-3xl">37+</p>
                 <p className="text-yellow-100 text-xs font-semibold">Years of Excellence</p>
@@ -281,30 +271,102 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ──────── PROGRAMS ──────── */}
-      <section className="bg-[#f8f9fc] py-16 md:py-24">
+      {/* ──────── MORNING ASSEMBLY ──────── */}
+      <section className="bg-blue-50 py-16 md:py-24">
+        <div className="max-w-7xl mx-auto px-4 grid md:grid-cols-2 gap-12 items-center">
+          <AnimSection className="order-2 md:order-1">
+            <p className="text-[#e8a000] font-semibold text-sm uppercase tracking-widest mb-3">Spiritual Beginnings</p>
+            <h2 className="text-3xl md:text-4xl font-extrabold text-[#1a3a6b] mb-4 gold-underline">
+              Morning Assembly
+            </h2>
+            <p className="text-gray-600 leading-relaxed mb-6">
+              Every day at Bhartiya School begins with a harmonious gathering. Our morning assembly fosters a sense of unity, spiritual grounding, and collective discipline. It is a time for reflection, school announcements, and starting the day with positive intentions.
+            </p>
+            <div className="bg-white p-6 rounded-2xl shadow-sm border border-blue-100 relative">
+              <span className="absolute -top-4 left-6 text-6xl text-blue-200 font-serif leading-none">"</span>
+              <p className="text-[#1a3a6b] font-medium italic text-lg leading-relaxed relative z-10 text-center">
+                हे प्रभु आनंद दाता ज्ञान हमको दीजिये।<br/>शीघ्र सारे दुर्गुणों को दूर हमसे कीजिये।
+              </p>
+            </div>
+          </AnimSection>
+          <AnimSection delay={150} className="order-1 md:order-2">
+            <div className="relative rounded-3xl overflow-hidden shadow-xl aspect-[4/3]">
+              <img src="/images/school-photo-1.webp" alt="Morning Assembly" loading="lazy" className="w-full h-full object-cover hover:scale-105 transition-transform duration-700" />
+            </div>
+          </AnimSection>
+        </div>
+      </section>
+
+      {/* ──────── NCC & SCOUTS ──────── */}
+      <section className="bg-white py-16 md:py-24">
         <div className="max-w-7xl mx-auto px-4">
           <AnimSection className="text-center mb-12">
-            <p className="text-[#e8a000] font-semibold text-sm uppercase tracking-widest mb-3">Curriculum</p>
-            <h2 className="text-3xl md:text-4xl font-extrabold text-[#1a3a6b] gold-underline-center">Academic Programs</h2>
-            <p className="text-gray-500 mt-6 max-w-xl mx-auto">From early childhood to senior secondary — a complete CBSE journey under one roof.</p>
+            <p className="text-[#e8a000] font-semibold text-sm uppercase tracking-widest mb-3">Discipline & Leadership</p>
+            <h2 className="text-3xl md:text-4xl font-extrabold text-[#1a3a6b] gold-underline-center">National Cadet Corps (NCC)</h2>
+            <p className="text-gray-500 mt-6 max-w-2xl mx-auto">
+              Our NCC and Scouts & Guides programs build discipline, leadership, and a profound sense of national pride. Through rigorous training, physical activities, and community service, our cadets gain invaluable life skills and experiences that last a lifetime.
+            </p>
           </AnimSection>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-5">
-            {programs.map((prog, i) => (
-              <AnimSection key={prog.title} delay={i * 80}>
-                <div className="bg-white rounded-2xl p-6 shadow-md card-hover h-full flex flex-col">
-                  <div className={`w-14 h-14 rounded-2xl bg-gradient-to-br ${prog.color} flex items-center justify-center text-2xl mb-4 shadow-md`}>
-                    {prog.icon}
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+            {[95, 26, 28, 104].map((num, i) => (
+              <AnimSection key={num} delay={i * 100}>
+                <div className="rounded-2xl overflow-hidden shadow-md aspect-square relative group">
+                  <img src={`/images/school-photo-${num}.webp`} alt="NCC Activity" loading="lazy" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
+                  <div className="absolute inset-0 bg-gradient-to-t from-[#1a3a6b]/80 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-4">
+                    <p className="text-white font-semibold">Training & Activity</p>
                   </div>
-                  <h3 className="font-bold text-[#1a3a6b] text-base mb-1">{prog.title}</h3>
-                  <p className="text-xs text-[#e8a000] font-semibold mb-3">{prog.range}</p>
-                  <p className="text-gray-500 text-sm leading-relaxed flex-1">{prog.desc}</p>
-                  <Link to="/academics" className="mt-4 text-[#1a3a6b] text-sm font-semibold flex items-center gap-1 hover:text-[#e8a000] transition-colors">
-                    Learn more <ChevronRight size={14} />
-                  </Link>
                 </div>
               </AnimSection>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ──────── ACHIEVEMENTS & NEWS ──────── */}
+      <section className="bg-[#f8f9fc] py-16 md:py-24">
+        <div className="max-w-7xl mx-auto px-4">
+          <AnimSection className="text-center mb-12">
+            <p className="text-[#e8a000] font-semibold text-sm uppercase tracking-widest mb-3">Highlights</p>
+            <h2 className="text-3xl md:text-4xl font-extrabold text-[#1a3a6b] gold-underline-center">News & Achievements</h2>
+            <p className="text-gray-500 mt-6 max-w-xl mx-auto">Celebrating the milestones, academic excellence, and proud moments of Bhartiya School.</p>
+          </AnimSection>
+          
+          <div className="grid lg:grid-cols-2 gap-8 items-stretch">
+            {/* Featured Achievement */}
+            <AnimSection delay={100} className="h-full">
+              <div className="bg-white rounded-3xl overflow-hidden shadow-xl h-full group flex flex-col cursor-pointer">
+                <div className="relative h-64 md:h-80 overflow-hidden shrink-0">
+                  <img src="/images/school-photo-55.webp" alt="Featured Achievement" loading="lazy" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
+                  <div className="absolute top-4 left-4 bg-[#e8a000] text-white text-xs font-bold px-4 py-2 rounded-full uppercase tracking-wider shadow-lg">Featured</div>
+                </div>
+                <div className="p-8 flex-1 flex flex-col justify-center">
+                  <h3 className="text-2xl md:text-3xl font-bold text-[#1a3a6b] mb-4 group-hover:text-[#2a5298] transition-colors">Excellence in Academics & Sports</h3>
+                  <p className="text-gray-600 leading-relaxed text-lg">Our students consistently bring laurels to the school by excelling in district and state-level competitions. We take immense pride in their hard work, dedication, and the accolades they earn.</p>
+                </div>
+              </div>
+            </AnimSection>
+
+            {/* News Stack */}
+            <div className="flex flex-col gap-6 h-full justify-between">
+              {[
+                { img: 20, title: 'Media Coverage & Recognition', desc: 'Bhartiya School featured in local news for outstanding performance.', tag: 'News' },
+                { img: 10, title: 'Annual Prize Distribution', desc: 'Honoring our brightest minds and talented athletes.', tag: 'Event' },
+                { img: 67, title: 'State Level Champions', desc: 'Our champions securing gold medals at the inter-school tournament.', tag: 'Sports' }
+              ].map((item, i) => (
+                <AnimSection key={i} delay={200 + i * 100} className="h-full">
+                  <div className="bg-white rounded-2xl p-4 shadow-md flex items-center gap-6 group hover:shadow-xl transition-shadow border border-gray-100 cursor-pointer h-full">
+                    <div className="w-24 h-24 md:w-32 md:h-32 rounded-xl overflow-hidden shrink-0 relative">
+                      <img src={`/images/school-photo-${item.img}.webp`} alt={item.title} loading="lazy" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
+                    </div>
+                    <div>
+                      <span className="text-[10px] md:text-xs font-bold text-[#1a3a6b] uppercase tracking-widest mb-2 block">{item.tag}</span>
+                      <h4 className="font-bold text-base md:text-lg text-gray-900 mb-2 group-hover:text-[#e8a000] transition-colors">{item.title}</h4>
+                      <p className="text-sm text-gray-500 line-clamp-2 leading-relaxed">{item.desc}</p>
+                    </div>
+                  </div>
+                </AnimSection>
+              ))}
+            </div>
           </div>
         </div>
       </section>
